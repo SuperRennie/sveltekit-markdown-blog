@@ -19,10 +19,10 @@
         class="flex items-center"
       >
         <div class="flex justify-center items-center gap-2 flex-shrink-0">
-          <span class="text-2xl font-bold text-white mt-2.5"> Sveltekit </span>
+          <span class="text-2xl font-bold text-white mt-2.5"> Openreplay </span>
           <a href="/" class="mt-2.5">
             <span class="text-2xl font-bold text-white opacity-50 hover:opacity-100">
-              blog
+               blog
             </span>
           </a>
         </div>

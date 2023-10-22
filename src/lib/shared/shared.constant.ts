@@ -9,35 +9,35 @@ export const defaultMetaDescription = `Posts on building stuff`;
  */
 export const POSTS_LIST = [
   {
-    title: 'An apple a day keeps the doctor away',
-    url: '/an-apple-a-day-keeps-the-doctor-away',
-    description: 'Apples are good for you',
-    author: 'Kyle',
-    date: '2023-02-05',
+    title: 'Using Tailwind.CSS with Sveltekit',
+    url: '/Using-Tailwind.CSS-with-Sveltekit',
+    description: 'Article for Openreplay',
+    author: 'Chisom',
+    date: '2023-10-20',
     isFeatured: true
   },
   {
-    title: 'A pear a day keeps the doctor away',
-    url: '/a-pear-a-day-keeps-the-doctor-away',
-    description: 'Pears are good for you',
-    author: 'Kyle',
-    date: '2023-02-05',
+    title: 'Introduction to Nuxt.js',
+    url: '/Introduction-to-Nuxt.js',
+    description: 'An article for Openreplay',
+    author: 'Philip',
+    date: '2023-10-19',
     isFeatured: true
   },
   {
-    title: 'Comparing 5 cheapest text to speech AI voice generators (2023)',
-    url: '/comparing-5-best-cheapest-text-to-speech-ai-voice-generators-2023',
-    description: 'beep boop',
-    author: 'Kyle',
-    date: '2023-02-05',
+    title: 'Autheticating with OAUTH',
+    url: '/Autheticating-with-OAUTH',
+    description: 'An article for Openreplay',
+    author: 'Chisom',
+    date: '2023-10-18',
     isFeatured: true
   },
   {
-    title: 'An orange a day keeps the doctor away',
-    url: '/an-orange-a-day-keeps-the-doctor-away',
-    description: 'Oranges are good for you',
-    author: 'Kyle',
-    date: '2023-02-05',
-    isFeatured: false
+    title: 'Svelte Blog',
+    url: '/svelte-blog',
+    description: 'Everything Svelte',
+    author: 'Chisom',
+    date: '2023-10-17',
+    isFeatured: true
   }
 ];

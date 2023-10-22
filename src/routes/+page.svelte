@@ -24,7 +24,7 @@
   <div class="relative mx-auto max-w-7xl">
     <div class="text-center">
       <h1 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-        From the blog
+        CHISOM FRANKLIN BLOG
       </h1>
     </div>
     <div class="mx-auto mt-12 grid max-w-lg gap-5 lg:max-w-none lg:grid-cols-3">
